@@ -1,4 +1,4 @@
-module github.com/mostafa/xk6-kafka
+github.com/manishsaini7/xk6-kafka
 
 go 1.18
 
